@@ -108,8 +108,8 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 
 #bloc-2 h3{
 	font-family: Arvo;
-	line-height: 30px;
 	font-size: 25px;
+	line-height: 30px;
 }
 #bloc-3 p{
 	font-size: 20px;
@@ -413,7 +413,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* Bloc image backgrounds */
 
 .bg-tile-d-bg{
-	background-image:url('img/tile-d-bg.png');
+	background-image:url("img/tile-d-bg.png");
 }
 
 
