@@ -86,26 +86,6 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 }
 
 
-/* Background Styles */
-
-.bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat{
-	-webkit-background-size: auto!important;
-	-moz-background-size: auto!important;
-	-o-background-size: auto!important;
-	background-size: auto!important;
-}
-.bg-repeat{
-	background:repeat;
-}
-
-
-/* Background Effects */
-
-.b-parallax{
-	background-attachment:fixed;
-}
-
-
 /* Light theme */
 
 .d-bloc .panel,.l-bloc{
@@ -148,15 +128,15 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 
 /* Bloc text custom styling */
 
-#bloc-2 h3{
+#bloc-1 h3{
 	font-family: Arvo;
 	font-size: 25px;
 	line-height: 30px;
 }
-#bloc-4 h3{
+#bloc-3 h3{
 	font-size: 30px;
 }
-#bloc-5 p{
+#bloc-4 p{
 	font-size: 20px;
 }
 
@@ -325,34 +305,6 @@ button{
 	padding: 3px 20px;
 }
 
-/* = Icons
--------------------------------------------------------------- */
-.icon-md{
-	font-size:30px!important;
-}
-.icon-round{
-	margin:0 auto;
-	border:2px solid transparent;
-	border-radius: 50%;
-	padding: 32px 30px 26px 30px;
-	min-width:80px;
-}
-.icon-rounded{
-	margin:0 auto;
-	border:2px solid transparent;
-	border-radius: 6px;
-	padding: 32px 30px 26px 30px;
-	min-width:80px;
-}
-.icon-round,.icon-md,.icon-square.icon-md,.icon-rounded.icon-md{
-	min-width: 92px;
-}
-.icon-round.icon-lg,.icon-square.icon-lg,.icon-rounded.icon-lg{
-	min-width: 122px;
-}
-.icon-round.icon-xl,.icon-square.icon-xl,.icon-rounded.icon-xl{
-	min-width: 162px;
-}
 
 
 
@@ -467,9 +419,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Bloc image backgrounds */
 
-.bg-tile-d-bg{
-	background-image:url("img/tile-d-bg.png");
-}
 
 
 
