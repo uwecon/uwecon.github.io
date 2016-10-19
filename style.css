@@ -149,7 +149,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #bloc-6 h3{
 	font-size: 30px;
 }
-#bloc-7 p{
+#bloc-9 p{
 	font-size: 20px;
 }
 
@@ -457,7 +457,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background-image:url("img/tile-d-bg.png");
 }
 .bg-tile-d-bg{
-	background-image:url('img/tile-d-bg.png');
+	background-image:url("img/tile-d-bg.png");
 }
 
 
