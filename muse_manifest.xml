@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477595465885">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477597350434">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="313074530" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3776901354" ref="index"/>
-    <file name="index.css" crc="48582809" ref="index"/>
-    <file name="nomq_index.css" crc="325564438" ref="index"/>
+    <file name="master_a-master.css" crc="4102509830" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3841471174" ref="index"/>
+    <file name="index.css" crc="484829146" ref="index"/>
+    <file name="nomq_index.css" crc="445850930" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -57,6 +57,18 @@
     <file name="wei345x259.jpg" crc="457921852" seo="true" ref="index"/>
     <file name="wei345x259_2x.jpg" crc="3819282323" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="uw-madison_icon-u34518.png" crc="3971145606" ref="index"/>
+    <file name="uw-madison_icon-u34518_2x.png" crc="236303574" ref="index"/>
+    <file name="very-basic-download-icon-121x21.png" crc="475561121" seo="true" ref="index"/>
+    <file name="very-basic-download-icon-121x21_2x.png" crc="4186117252" seo="true" ref="index"/>
+    <file name="howard280x211.jpg" crc="3793771718" seo="true" ref="index"/>
+    <file name="howard280x211_2x.jpg" crc="4257556811" seo="true" ref="index"/>
+    <file name="measuring_market_power280x210.jpg" crc="369091766" seo="true" ref="index"/>
+    <file name="measuring_market_power280x210_2x.jpg" crc="3900234013" seo="true" ref="index"/>
+    <file name="yiyou280x210.jpg" crc="3959651663" seo="true" ref="index"/>
+    <file name="yiyou280x210_2x.jpg" crc="478648927" seo="true" ref="index"/>
+    <file name="wei280x210.jpg" crc="4216296195" seo="true" ref="index"/>
+    <file name="wei280x210_2x.jpg" crc="89850962" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4198708575" seo="true" mt="1477595449538" redirect="true"/>
+  <file name="index.html" crc="3824758827" seo="true" mt="1477597330138" redirect="true"/>
 </manifest>
