@@ -1,0 +1,62 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477595303923">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="313074530" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3776901354" ref="index"/>
+    <file name="index.css" crc="48582809" ref="index"/>
+    <file name="nomq_index.css" crc="325564438" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="230939046" ref="index"/>
+    <file name="bg.jpg" crc="20063431" ref="index"/>
+    <file name="uw-madison_icon-u34092.png" crc="4033698402" ref="index"/>
+    <file name="uw-madison_icon-u34092_2x.png" crc="4097785396" ref="index"/>
+    <file name="very-basic-download-icon-1.png" crc="292756684" seo="true" ref="index"/>
+    <file name="very-basic-download-icon-1_2x.png" crc="4186117252" seo="true" ref="index"/>
+    <file name="howard425x317.jpg" crc="3968805796" seo="true" ref="index"/>
+    <file name="howard425x317_2x.jpg" crc="160494813" seo="true" ref="index"/>
+    <file name="rta7ry8tl.png" crc="292481803" seo="true" ref="index"/>
+    <file name="rta7ry8tl_2x.png" crc="125102415" seo="true" ref="index"/>
+    <file name="measuring_market_power429x322.jpg" crc="437551035" seo="true" ref="index"/>
+    <file name="measuring_market_power429x322_2x.jpg" crc="101353695" seo="true" ref="index"/>
+    <file name="yiyou433x325.jpg" crc="36005610" seo="true" ref="index"/>
+    <file name="yiyou433x325_2x.jpg" crc="474722645" seo="true" ref="index"/>
+    <file name="wei431x324.jpg" crc="4050977883" seo="true" ref="index"/>
+    <file name="wei431x324_2x.jpg" crc="3802081754" seo="true" ref="index"/>
+    <file name="uwcrest_4c.png" crc="98089670" seo="true" ref="index"/>
+    <file name="uwcrest_4c_2x.png" crc="412710010" seo="true" ref="index"/>
+    <file name="menuicon.svg" crc="4261124350" ref="index"/>
+    <file name="menuicon_poster_u1191.png" crc="4194285814" ref="index"/>
+    <file name="cross.svg" crc="4237644060" ref="index"/>
+    <file name="cross_poster_u28665.png" crc="394270039" ref="index"/>
+    <file name="uw-madison_icon-u34104.png" crc="3971145606" ref="index"/>
+    <file name="uw-madison_icon-u34104_2x.png" crc="236303574" ref="index"/>
+    <file name="howard345x259.jpg" crc="378228054" seo="true" ref="index"/>
+    <file name="howard345x259_2x.jpg" crc="266795006" seo="true" ref="index"/>
+    <file name="measuring_market_power345x259.jpg" crc="3771663928" seo="true" ref="index"/>
+    <file name="measuring_market_power345x259_2x.jpg" crc="484652731" seo="true" ref="index"/>
+    <file name="yiyou345x259.jpg" crc="284401102" seo="true" ref="index"/>
+    <file name="yiyou345x259_2x.jpg" crc="324758526" seo="true" ref="index"/>
+    <file name="wei345x259.jpg" crc="457921852" seo="true" ref="index"/>
+    <file name="wei345x259_2x.jpg" crc="3819282323" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="316014594" seo="true" mt="1477595132216" redirect="true"/>
+</manifest>

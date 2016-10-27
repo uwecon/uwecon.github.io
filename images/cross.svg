@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="66px" height="44px" viewBox="0 0 66 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="66" height="44"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="66" height="44" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="cross" transform="translate(18.000000, 13.000000)" fill="#000000">
+                <g id="Layer_1">
+                    <path d="M9.93631034,9 L17.744069,1.19224138 C18.0026897,0.93362069 18.0026897,0.514551724 17.744069,0.255931034 C17.4854483,-0.00268965517 17.0663793,-0.00268965517 16.8077586,0.255931034 L9,8.06368966 L1.19224138,0.256034483 C0.93362069,-0.0025862069 0.514551724,-0.0025862069 0.255931034,0.256034483 C-0.00268965517,0.514655172 -0.00268965517,0.933724138 0.255931034,1.19234483 L8.06368966,9 L0.255931034,16.8077586 C-0.00268965517,17.0663793 -0.00268965517,17.4854483 0.255931034,17.744069 C0.385241379,17.8733793 0.554689655,17.9380345 0.724034483,17.9380345 C0.89337931,17.9380345 1.06282759,17.8733793 1.19213793,17.744069 L9,9.93631034 L16.8077586,17.744069 C16.937069,17.8733793 17.1065172,17.9380345 17.2758621,17.9380345 C17.4452069,17.9380345 17.6146552,17.8733793 17.7439655,17.744069 C18.0025862,17.4854483 18.0025862,17.0663793 17.7439655,16.8077586 L9.93631034,9 L9.93631034,9 Z" id="Shape"></path>
+                </g>
+            </g>
+            <use id="Rectangle" stroke-opacity="0" stroke="#979797" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
