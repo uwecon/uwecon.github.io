@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477600799674">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477601407951">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_a-master.css" crc="4216588650" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4242943755" ref="index"/>
-    <file name="index.css" crc="235860336" ref="index"/>
+    <file name="index.css" crc="3824737502" ref="index"/>
     <file name="nomq_index.css" crc="4096533477" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -70,5 +70,5 @@
     <file name="wei280x210.jpg" crc="4216296195" seo="true" ref="index"/>
     <file name="wei280x210_2x.jpg" crc="89850962" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="174204479" seo="true" mt="1477600786940" redirect="true"/>
+  <file name="index.html" crc="3937361381" seo="true" mt="1477601392366" redirect="true"/>
 </manifest>
