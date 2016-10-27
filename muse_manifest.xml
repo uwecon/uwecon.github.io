@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477597350434">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477597623903">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_a-master.css" crc="4102509830" ref="index"/>
@@ -70,5 +70,5 @@
     <file name="wei280x210.jpg" crc="4216296195" seo="true" ref="index"/>
     <file name="wei280x210_2x.jpg" crc="89850962" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3824758827" seo="true" mt="1477597330138" redirect="true"/>
+  <file name="index.html" crc="137401398" seo="true" mt="1477597594186" redirect="true"/>
 </manifest>
