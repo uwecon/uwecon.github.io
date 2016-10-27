@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477598635428">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477598829361">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="142338475" ref="index"/>
+    <file name="master_a-master.css" crc="146628977" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3841471174" ref="index"/>
-    <file name="index.css" crc="256734860" ref="index"/>
+    <file name="index.css" crc="300509522" ref="index"/>
     <file name="nomq_index.css" crc="3866603668" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -70,5 +70,5 @@
     <file name="wei280x210.jpg" crc="4216296195" seo="true" ref="index"/>
     <file name="wei280x210_2x.jpg" crc="89850962" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3845187806" seo="true" mt="1477598606875" redirect="true"/>
+  <file name="index.html" crc="351202810" seo="true" mt="1477598812819" redirect="true"/>
 </manifest>
