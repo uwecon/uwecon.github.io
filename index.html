@@ -19,11 +19,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3916556066"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=146628977"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=88627241" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3984459768" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3841471174"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3866603668" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3897550248" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -41,8 +41,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="position_content" id="page_position_content">
      <a class="anchor_item colelem shared_content" id="home" data-content-guid="home_content"></a>
      <div class="clearfix colelem" id="pu1295"><!-- group -->
-      <div class="browser_width mse_pre_init shared_content" id="u1295-bw" data-content-guid="u1295-bw_content">
-       <div class="shadow rgba-background" id="u1295"><!-- simple frame --></div>
+      <div class="browser_width mse_pre_init" id="u1295-bw">
+       <div class="shadow rgba-background shared_content" id="u1295" data-content-guid="u1295_content"><!-- simple frame --></div>
       </div>
       <a class="nonblock nontext anim_swing mse_pre_init" id="u32571" href="index.html#home"><!-- simple frame --></a>
       <a class="nonblock nontext anim_swing mse_pre_init" id="u32611" href="index.html#topics"><!-- simple frame --></a>
@@ -226,7 +226,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <div class="clearfix temp_no_id" data-orig-id="page"><!-- column -->
     <div class="position_content temp_no_id" data-orig-id="page_position_content">
      <span class="anchor_item colelem placeholder" data-placeholder-for="home_content"><!-- placeholder node --></span>
-     <span class="browser_width mse_pre_init placeholder" data-placeholder-for="u1295-bw_content"><!-- placeholder node --></span>
+     <div class="browser_width temp_no_id" data-orig-id="u1295-bw">
+      <span class="shadow rgba-background pinned-colelem placeholder" data-placeholder-for="u1295_content"><!-- placeholder node --></span>
+     </div>
      <div class="browser_width" id="accordionu811-bw">
       <ul class="AccordionWidget clearfix pinned-colelem" id="accordionu811"><!-- vertical box -->
        <li class="AccordionPanel clearfix colelem100" id="u812"><!-- vertical box --><div class="AccordionPanelTab museBGSize clearfix colelem100" id="u814-3"><!-- content --><p>&nbsp;</p></div><div class="AccordionPanelContent disn rgba-background clearfix colelem100" id="u813"><!-- column --><a class="nonblock nontext anim_swing clearfix colelem" id="u21699-4" href="index.html#home"><!-- content --><p id="u21699-2">HOME</p></a><a class="nonblock nontext anim_swing clearfix colelem" id="u21707-4" href="index.html#topics"><!-- content --><p id="u21707-2">TOPICS</p></a><a class="nonblock nontext anim_swing clearfix colelem" id="u21717-4" href="index.html#emperics"><!-- content --><p id="u21717-2">EMPERICS</p></a><a class="nonblock nontext anim_swing clearfix colelem" id="u21718-4" href="index.html#presentation"><!-- content --><p id="u21718-2">PRESENTATION</p></a></div></li>
@@ -382,7 +384,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <li class="AccordionPanel clearfix colelem100" id="u35385"><!-- vertical box --><div class="AccordionPanelTab museBGSize clearfix colelem100" id="u35391-3"><!-- content --><p>&nbsp;</p></div><div class="AccordionPanelContent disn rgba-background clearfix colelem100" id="u35386"><!-- column --><a class="nonblock nontext anim_swing clearfix colelem" id="u35387-4" href="index.html#home320"><!-- content --><p id="u35387-2">HOME</p></a><a class="nonblock nontext anim_swing clearfix colelem" id="u35388-4" href="index.html#topics320"><!-- content --><p id="u35388-2">TOPICS</p></a><a class="nonblock nontext anim_swing clearfix colelem" id="u35389-4" href="index.html#emperics320"><!-- content --><p id="u35389-2">EMPERICS</p></a><a class="nonblock nontext anim_swing clearfix colelem" id="u35390-4" href="index.html#presentation320"><!-- content --><p id="u35390-2">PRESENTATION</p></a></div></li>
       </ul>
      </div>
-     <span class="browser_width mse_pre_init placeholder" data-placeholder-for="u1295-bw_content"><!-- placeholder node --></span>
+     <div class="browser_width temp_no_id" data-orig-id="u1295-bw">
+      <span class="shadow rgba-background pinned-colelem placeholder" data-placeholder-for="u1295_content"><!-- placeholder node --></span>
+     </div>
      <div class="clearfix colelem" id="ptopics320"><!-- group -->
       <a class="anchor_item grpelem" id="topics320"></a>
       <div class="browser_width grpelem temp_no_id" data-orig-id="u33101-bw">
@@ -561,12 +565,6 @@ $('#u32611').registerPositionScrollEffect([{"in":[-Infinity,-0.05],"speed":[0,0]
 $('#u32821').registerPositionScrollEffect([{"in":[-Infinity,-0.1],"speed":[0,0]},{"in":[-0.1,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u32853').registerPositionScrollEffect([{"in":[-Infinity,-0.2],"speed":[0,0]},{"in":[-0.2,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u32010').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_480').one('muse_this_bp_activate', function(){
-$('#u1295-bw').registerPositionScrollEffect([{"in":[-Infinity,0.1],"speed":[null,0]},{"in":[0.1,Infinity],"speed":[null,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_320').one('muse_this_bp_activate', function(){
-$('#u1295-bw').registerPositionScrollEffect([{"in":[-Infinity,0.1],"speed":[null,0]},{"in":[0.1,Infinity],"speed":[null,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
