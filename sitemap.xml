@@ -97,13 +97,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://index.html/images/very-basic-download-icon-1.png</loc>
+    <loc>http://index.html/images/measuring_market_power345x259.jpg</loc>
     <lastmod>2016-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://index.html/images/measuring_market_power345x259_2x.jpg</loc>
+    <loc>http://index.html/images/very-basic-download-icon-1.png</loc>
     <lastmod>2016-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -193,7 +193,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://index.html/images/measuring_market_power345x259.jpg</loc>
+    <loc>http://index.html/images/very-basic-download-icon-123x23.png</loc>
+    <lastmod>2016-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://index.html/images/very-basic-download-icon-123x23_2x.png</loc>
+    <lastmod>2016-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://index.html/images/measuring_market_power345x259_2x.jpg</loc>
     <lastmod>2016-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477602081060">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477624099134">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="4216588650" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4242943755" ref="index"/>
-    <file name="index.css" crc="511331132" ref="index"/>
-    <file name="nomq_index.css" crc="4096533477" ref="index"/>
+    <file name="master_a-master.css" crc="3884674975" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4177587495" ref="index"/>
+    <file name="index.css" crc="4242417137" ref="index"/>
+    <file name="nomq_index.css" crc="4107708191" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -69,6 +69,10 @@
     <file name="yiyou280x210_2x.jpg" crc="478648927" seo="true" ref="index"/>
     <file name="wei280x210.jpg" crc="4216296195" seo="true" ref="index"/>
     <file name="wei280x210_2x.jpg" crc="89850962" seo="true" ref="index"/>
+    <file name="uw-madison_icon-u40290.png" crc="4033698402" ref="index"/>
+    <file name="uw-madison_icon-u40290_2x.png" crc="4097785396" ref="index"/>
+    <file name="very-basic-download-icon-123x23.png" crc="319753" seo="true" ref="index"/>
+    <file name="very-basic-download-icon-123x23_2x.png" crc="4186117252" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="67541279" seo="true" mt="1477602059956" redirect="true"/>
+  <file name="index.html" crc="230991219" seo="true" mt="1477624081225" redirect="true"/>
 </manifest>
