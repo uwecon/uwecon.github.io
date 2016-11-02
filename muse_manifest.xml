@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1477624099134">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1478057430467">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="3884674975" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4177587495" ref="index"/>
-    <file name="index.css" crc="4242417137" ref="index"/>
-    <file name="nomq_index.css" crc="4107708191" ref="index"/>
+    <file name="master_a-master.css" crc="22243852" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4242943755" ref="index"/>
+    <file name="index.css" crc="451633031" ref="index"/>
+    <file name="nomq_index.css" crc="3838076896" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -73,6 +73,22 @@
     <file name="uw-madison_icon-u40290_2x.png" crc="4097785396" ref="index"/>
     <file name="very-basic-download-icon-123x23.png" crc="319753" seo="true" ref="index"/>
     <file name="very-basic-download-icon-123x23_2x.png" crc="4186117252" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987429x322.jpg" crc="4229664972" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987429x322_2x.jpg" crc="288290965" seo="true" ref="index"/>
+    <file name="font444x333.jpg" crc="511273560" seo="true" ref="index"/>
+    <file name="font444x333_2x.jpg" crc="236599879" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987431x324.jpg" crc="4079392570" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987431x324_2x.jpg" crc="80284066" seo="true" ref="index"/>
+    <file name="font446x334.jpg" crc="3942958975" seo="true" ref="index"/>
+    <file name="font446x334_2x.jpg" crc="139587418" seo="true" ref="index"/>
+    <file name="font367x275.jpg" crc="4209619903" seo="true" ref="index"/>
+    <file name="font367x275_2x.jpg" crc="4272901784" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987345x259.jpg" crc="3835354247" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987345x259_2x.jpg" crc="4067893170" seo="true" ref="index"/>
+    <file name="font293x220.jpg" crc="452459315" seo="true" ref="index"/>
+    <file name="font293x220_2x.jpg" crc="210316623" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987280x210.jpg" crc="293994132" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987280x210_2x.jpg" crc="174020758" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="230991219" seo="true" mt="1477624081225" redirect="true"/>
+  <file name="index.html" crc="141518518" seo="true" mt="1478057412264" redirect="true"/>
 </manifest>
