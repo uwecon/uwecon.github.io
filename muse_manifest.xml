@@ -1,94 +1,97 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1478057430467">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1478724156007">
   <folder name="css">
-    <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="22243852" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4242943755" ref="index"/>
-    <file name="index.css" crc="451633031" ref="index"/>
-    <file name="nomq_index.css" crc="3838076896" ref="index"/>
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="226192774" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3798748734" ref="index"/>
+    <file name="index.css" crc="4023922868" ref="index"/>
+    <file name="nomq_index.css" crc="321912476" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
-    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4242129463" ref="index"/>
-    <file name="pie.js" crc="3831537696" ref="index"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
-    <file name="webpro.js" crc="4067903014" ref="index"/>
-    <file name="musewpdisclosure.js" crc="338211507" ref="index"/>
-    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
-    <file name="touchswipe.js" crc="474750357" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
-    <file name="require.js" crc="4108833657" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="230939046" ref="index"/>
-    <file name="bg.jpg" crc="20063431" ref="index"/>
-    <file name="uw-madison_icon-u34092.png" crc="4033698402" ref="index"/>
-    <file name="uw-madison_icon-u34092_2x.png" crc="4097785396" ref="index"/>
+    <file name="bg.jpg" crc="3954241928" ref="index"/>
+    <file name="bg_2x.jpg" crc="389245722" ref="index"/>
+    <file name="uw-madison_icon-u34092.png" crc="4067881711" ref="index"/>
+    <file name="uw-madison_icon-u34092_2x.png" crc="3940219946" ref="index"/>
     <file name="very-basic-download-icon-1.png" crc="292756684" seo="true" ref="index"/>
     <file name="very-basic-download-icon-1_2x.png" crc="4186117252" seo="true" ref="index"/>
-    <file name="howard425x317.jpg" crc="3968805796" seo="true" ref="index"/>
-    <file name="howard425x317_2x.jpg" crc="160494813" seo="true" ref="index"/>
-    <file name="rta7ry8tl.png" crc="292481803" seo="true" ref="index"/>
+    <file name="howard425x317.jpg" crc="3947009140" seo="true" ref="index"/>
+    <file name="howard425x317_2x.jpg" crc="326028498" seo="true" ref="index"/>
+    <file name="rta7ry8tl.png" crc="96401949" seo="true" ref="index"/>
     <file name="rta7ry8tl_2x.png" crc="125102415" seo="true" ref="index"/>
-    <file name="measuring_market_power429x322.jpg" crc="437551035" seo="true" ref="index"/>
-    <file name="measuring_market_power429x322_2x.jpg" crc="101353695" seo="true" ref="index"/>
-    <file name="yiyou433x325.jpg" crc="36005610" seo="true" ref="index"/>
-    <file name="yiyou433x325_2x.jpg" crc="474722645" seo="true" ref="index"/>
-    <file name="wei431x324.jpg" crc="4050977883" seo="true" ref="index"/>
-    <file name="wei431x324_2x.jpg" crc="3802081754" seo="true" ref="index"/>
-    <file name="uwcrest_4c.png" crc="98089670" seo="true" ref="index"/>
+    <file name="measuring_market_power429x322.jpg" crc="4044662480" seo="true" ref="index"/>
+    <file name="measuring_market_power429x322_2x.jpg" crc="4197213930" seo="true" ref="index"/>
+    <file name="yiyou433x325.jpg" crc="453597157" seo="true" ref="index"/>
+    <file name="yiyou433x325_2x.jpg" crc="216988011" seo="true" ref="index"/>
+    <file name="wei431x324.jpg" crc="4162906028" seo="true" ref="index"/>
+    <file name="wei431x324_2x.jpg" crc="321426018" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987429x322.jpg" crc="251006060" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987429x322_2x.jpg" crc="4039366631" seo="true" ref="index"/>
+    <file name="font444x333.jpg" crc="4097863927" seo="true" ref="index"/>
+    <file name="font444x333_2x.jpg" crc="253185626" seo="true" ref="index"/>
+    <file name="uwcrest_4c.png" crc="4238462473" seo="true" ref="index"/>
     <file name="uwcrest_4c_2x.png" crc="412710010" seo="true" ref="index"/>
-    <file name="menuicon.svg" crc="4261124350" ref="index"/>
-    <file name="menuicon_poster_u1191.png" crc="4194285814" ref="index"/>
-    <file name="cross.svg" crc="4237644060" ref="index"/>
-    <file name="cross_poster_u28665.png" crc="394270039" ref="index"/>
-    <file name="uw-madison_icon-u34104.png" crc="3971145606" ref="index"/>
-    <file name="uw-madison_icon-u34104_2x.png" crc="236303574" ref="index"/>
-    <file name="howard345x259.jpg" crc="378228054" seo="true" ref="index"/>
-    <file name="howard345x259_2x.jpg" crc="266795006" seo="true" ref="index"/>
-    <file name="measuring_market_power345x259.jpg" crc="3771663928" seo="true" ref="index"/>
-    <file name="measuring_market_power345x259_2x.jpg" crc="484652731" seo="true" ref="index"/>
-    <file name="yiyou345x259.jpg" crc="284401102" seo="true" ref="index"/>
-    <file name="yiyou345x259_2x.jpg" crc="324758526" seo="true" ref="index"/>
-    <file name="wei345x259.jpg" crc="457921852" seo="true" ref="index"/>
-    <file name="wei345x259_2x.jpg" crc="3819282323" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="uw-madison_icon-u34518.png" crc="3971145606" ref="index"/>
-    <file name="uw-madison_icon-u34518_2x.png" crc="236303574" ref="index"/>
+    <file name="bg2.jpg" crc="389245722" ref="index"/>
+    <file name="uw-madison_icon-u40290.png" crc="4067881711" ref="index"/>
+    <file name="uw-madison_icon-u40290_2x.png" crc="3940219946" ref="index"/>
     <file name="very-basic-download-icon-121x21.png" crc="475561121" seo="true" ref="index"/>
     <file name="very-basic-download-icon-121x21_2x.png" crc="4186117252" seo="true" ref="index"/>
-    <file name="howard280x211.jpg" crc="3793771718" seo="true" ref="index"/>
-    <file name="howard280x211_2x.jpg" crc="4257556811" seo="true" ref="index"/>
-    <file name="measuring_market_power280x210.jpg" crc="369091766" seo="true" ref="index"/>
-    <file name="measuring_market_power280x210_2x.jpg" crc="3900234013" seo="true" ref="index"/>
-    <file name="yiyou280x210.jpg" crc="3959651663" seo="true" ref="index"/>
-    <file name="yiyou280x210_2x.jpg" crc="478648927" seo="true" ref="index"/>
-    <file name="wei280x210.jpg" crc="4216296195" seo="true" ref="index"/>
-    <file name="wei280x210_2x.jpg" crc="89850962" seo="true" ref="index"/>
-    <file name="uw-madison_icon-u40290.png" crc="4033698402" ref="index"/>
-    <file name="uw-madison_icon-u40290_2x.png" crc="4097785396" ref="index"/>
     <file name="very-basic-download-icon-123x23.png" crc="319753" seo="true" ref="index"/>
     <file name="very-basic-download-icon-123x23_2x.png" crc="4186117252" seo="true" ref="index"/>
-    <file name="pre_zhuozhen_manski1987429x322.jpg" crc="4229664972" seo="true" ref="index"/>
-    <file name="pre_zhuozhen_manski1987429x322_2x.jpg" crc="288290965" seo="true" ref="index"/>
-    <file name="font444x333.jpg" crc="511273560" seo="true" ref="index"/>
-    <file name="font444x333_2x.jpg" crc="236599879" seo="true" ref="index"/>
-    <file name="pre_zhuozhen_manski1987431x324.jpg" crc="4079392570" seo="true" ref="index"/>
-    <file name="pre_zhuozhen_manski1987431x324_2x.jpg" crc="80284066" seo="true" ref="index"/>
-    <file name="font446x334.jpg" crc="3942958975" seo="true" ref="index"/>
-    <file name="font446x334_2x.jpg" crc="139587418" seo="true" ref="index"/>
-    <file name="font367x275.jpg" crc="4209619903" seo="true" ref="index"/>
-    <file name="font367x275_2x.jpg" crc="4272901784" seo="true" ref="index"/>
-    <file name="pre_zhuozhen_manski1987345x259.jpg" crc="3835354247" seo="true" ref="index"/>
-    <file name="pre_zhuozhen_manski1987345x259_2x.jpg" crc="4067893170" seo="true" ref="index"/>
-    <file name="font293x220.jpg" crc="452459315" seo="true" ref="index"/>
-    <file name="font293x220_2x.jpg" crc="210316623" seo="true" ref="index"/>
-    <file name="pre_zhuozhen_manski1987280x210.jpg" crc="293994132" seo="true" ref="index"/>
-    <file name="pre_zhuozhen_manski1987280x210_2x.jpg" crc="174020758" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987431x324.jpg" crc="4278966304" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987431x324_2x.jpg" crc="271198718" seo="true" ref="index"/>
+    <file name="font446x334.jpg" crc="339012662" seo="true" ref="index"/>
+    <file name="font446x334_2x.jpg" crc="430827211" seo="true" ref="index"/>
+    <file name="menuicon.svg" crc="4261124350" ref="index"/>
+    <file name="menuicon_poster_u1191.png" crc="405692624" ref="index"/>
+    <file name="cross.svg" crc="4237644060" ref="index"/>
+    <file name="cross_poster_u28665.png" crc="3764127134" ref="index"/>
+    <file name="uw-madison_icon-u34104.png" crc="256604405" ref="index"/>
+    <file name="uw-madison_icon-u34104_2x.png" crc="423246308" ref="index"/>
+    <file name="howard345x259.jpg" crc="3759412679" seo="true" ref="index"/>
+    <file name="howard345x259_2x.jpg" crc="34782642" seo="true" ref="index"/>
+    <file name="measuring_market_power345x259.jpg" crc="4014877275" seo="true" ref="index"/>
+    <file name="measuring_market_power345x259_2x.jpg" crc="43942121" seo="true" ref="index"/>
+    <file name="yiyou345x259.jpg" crc="300227090" seo="true" ref="index"/>
+    <file name="yiyou345x259_2x.jpg" crc="4017293996" seo="true" ref="index"/>
+    <file name="wei345x259.jpg" crc="467036363" seo="true" ref="index"/>
+    <file name="wei345x259_2x.jpg" crc="4048839034" seo="true" ref="index"/>
+    <file name="font367x275.jpg" crc="166399826" seo="true" ref="index"/>
+    <file name="font367x275_2x.jpg" crc="3909507015" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987345x259.jpg" crc="457072236" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987345x259_2x.jpg" crc="4252313085" seo="true" ref="index"/>
+    <file name="bg-u33101-fr.jpg" crc="4128404794" ref="index"/>
+    <file name="bg-u33101-fr_2x.jpg" crc="267516911" ref="index"/>
+    <file name="uw-madison_icon-u34518.png" crc="256604405" ref="index"/>
+    <file name="uw-madison_icon-u34518_2x.png" crc="423246308" ref="index"/>
+    <file name="howard280x211.jpg" crc="6270234" seo="true" ref="index"/>
+    <file name="howard280x211_2x.jpg" crc="131141126" seo="true" ref="index"/>
+    <file name="measuring_market_power280x210.jpg" crc="3840719128" seo="true" ref="index"/>
+    <file name="measuring_market_power280x210_2x.jpg" crc="330991911" seo="true" ref="index"/>
+    <file name="yiyou280x210.jpg" crc="4083031590" seo="true" ref="index"/>
+    <file name="yiyou280x210_2x.jpg" crc="4182656746" seo="true" ref="index"/>
+    <file name="wei280x210.jpg" crc="376191702" seo="true" ref="index"/>
+    <file name="wei280x210_2x.jpg" crc="263183310" seo="true" ref="index"/>
+    <file name="font293x220.jpg" crc="3904820520" seo="true" ref="index"/>
+    <file name="font293x220_2x.jpg" crc="3976038373" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987280x210.jpg" crc="130026172" seo="true" ref="index"/>
+    <file name="pre_zhuozhen_manski1987280x210_2x.jpg" crc="3993720981" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="141518518" seo="true" mt="1478057412264" redirect="true"/>
+  <file name="index.html" crc="3968814167" seo="true" mt="1478724149419" redirect="true"/>
 </manifest>
